@@ -1,0 +1,3 @@
+
+asb.connection: conn
+asb.queue: queuename
